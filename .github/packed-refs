@@ -1,0 +1,20 @@
+# pack-refs with: peeled fully-peeled sorted 
+4b2e2e319b50992e8467cf6177d329992c4cdfc2 refs/remotes/origin/Ftwrr-patch-1
+54ca307bbd2c35dc582903e94b001a638cdecd5c refs/remotes/origin/Ftwrr-patch-2
+15dc7d6692b4a96098d5ea404df2bf000d08a99c refs/remotes/origin/Ftwrr-patch-3
+5363604dfbf25b82d0977af28448d741d1592b2d refs/remotes/origin/Ftwrr-patch-4
+1be756b0d9388574ccabe3d577a735426db39235 refs/remotes/origin/Ftwrr-patch-5
+804f35e6f3022ca8b6301743829b2051ef08c78c refs/remotes/origin/Ftwrr-patch-6
+68f9a9f525242b0ca4a8f2b673351bc8f1ae1d75 refs/remotes/origin/Ftwrr-patch-7
+acdd5c1abe261bc3f7d70cbaba0fda118956b552 refs/remotes/origin/Ftwrr-patch-8
+bb55591469dd71d7bfb81065dd36efb7f2df578c refs/remotes/origin/Nurutomo-patch-1
+850cb96e5b1bdd82fead53a60e04341e58ab5037 refs/remotes/origin/main
+27090111dab2e0b7d9d313466548d31c6b1ac478 refs/remotes/origin/master
+8fafa26859d77c01a59d9c648f1b728c4a3604b8 refs/remotes/origin/revert-712-patch-3
+266b31138a55f2c12fd04c0a2c09c458d4159510 refs/remotes/origin/revert-714-patch-4
+cdea721162606dd87245f1f1bc3938707549c238 refs/remotes/origin/unmaintain
+26b8a062060c0463e7e78f1c984a7571bc8aa3c2 refs/tags/1.2.2
+0731f7014127a26eb85f34efe719475dac41f754 refs/tags/v0.0.1
+4105515fc7204cfaa0f6b1a639fce69b0850daca refs/tags/v0.5.0
+fe3b924cdc5bcf51d62e033add8acfd7d9d659ab refs/tags/v2.0.0
+ab7af813b0e073870d79fd406144cf073c71268f refs/tags/v2.5.1
