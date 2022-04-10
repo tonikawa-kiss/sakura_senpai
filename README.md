@@ -1,7 +1,7 @@
 <div align="center">
   <a href="https://coolwallpapers.me/5045071-anime-blonde-blue-eyes-chitoge-kirisaki-nisekoi.html"><img src="https://i.ibb.co/mNFxB0T/f23a50dd-cd79-4603-b3ab-01c392468563.jpg" alt="Cara" border="0" style="width:380px;height:160px;"></a>
 
-# <h1><er>Cara is a modified version of <a href="https://github.com/ShineiIchijo/Chitoge">Chitoge</er></a></h1>
+# <h1><er>NSPU GAMING<a href="https://github.com/ShineiIchijo/Chitoge">LIKE SHARE SUBSCRIBE</er></a></h1>
 
 ## [![WhatsApp Group](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://chat.whatsapp.com/I4m8zLPwTme9II9aZWRZJ1)<br> [![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)](https://www.typescriptlang.org/) <br>[![NodeJs](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)](https://nodejs.org/en/)
 
@@ -11,10 +11,11 @@
 
 </div>
 <div align="center">
-<h1>Cara is full of Anime and Nsfw and many more features</h1>
+<h1>NSPU BOT is full of all Good Features</h1>
 </div>
 
-## 🍃 Official group-> http://gg.gg/Arus-Das-cara
+## 🍃 Official Youtube-> https://youtu.be/lHfzW3qGd80
+## 🍃 Official Youtube-> https://youtu.be/vh1gsE1DE8s
 
 ## ✨ Highlights
 
@@ -24,16 +25,6 @@
 -   Self-Restoring Auth
 -   Built with [Baileys](https://github.com/adiwajshing/baileys) (The Best
     WhatsApp Library Out There)
-
-## 💻 Deploy/Hosting Guide
-
--   Section Moved to
-    [Cara-Guides](https://github.com/ShineiIchijo/Chitoge-Guides/blob/main/README.md)
-
-## 🍥 Features of the Repo
-
--   To view all features, click
-    here➡️[Chitoge_featuresList.md](https://github.com/ShineiIchijo/Chitoge/blob/main/Features.md)
 
 ## 💪 Contribution
 
