@@ -1,5 +1,5 @@
 <div align="center">
-  <a href="https://coolwallpapers.me/5045071-anime-blonde-blue-eyes-chitoge-kirisaki-nisekoi.html"><img src="https://i.ibb.co/mNFxB0T/f23a50dd-cd79-4603-b3ab-01c392468563.jpg" alt="NSPU" border="0" style="width:380px;height:160px;"></a>
+  <a href="https://coolwallpapers.me/5045071-anime-blonde-blue-eyes-chitoge-kirisaki-nisekoi.html"><img src="https://i.ibb.co/JcHC01r/trlr.png" alt="Cara" border="0" style="width:380px;height:160px;"></a>
 
 # <h1><er>NSPU GAMING<a href="https://youtu.be/vh1gsE1DE8s">LIKE SHARE SUBSCRIBE</er></a></h1>
 
