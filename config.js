@@ -7,7 +7,7 @@ global.APIs = { // API Prefix
   // name: 'https://website'
   nrtm: 'https://nurutomo.herokuapp.com',
   xteam: 'https://api.xteam.xyz',
-  nzcha: 'http://nzcha-apii.herokuapp.com',
+  zahir: https://zahirr-web.herkuapp.com',
   bg: 'http://bochil.ddns.net',
   fdci: 'https://api.fdci.se',
   bsbt: 'https://bsbt-api-rest.herokuapp.com',
@@ -22,7 +22,6 @@ global.APIKeys = { // APIKey Here
   'https://zahirr-web.herokuapp.com': 'zahirgans',
   'https://api.zeks.xyz': 'apivinz',
   'https://pencarikode.xyz': 'pais',
-  'https://leyscoders-api.herokuapp.com': 'dappakntlll', 
   'https://leyscoders-api.herokuapp.com': 'dappakntlll'
 }
 
