@@ -6,7 +6,7 @@
   "keywords": ["whatsapp"], 
   "buildpacks": [
     {
-      "url": "heroku/"https://github.com/jonathanong/heroku-buildpack-ffmpeg-latest"
+      "url": "https://github.com/jonathanong/heroku-buildpack-ffmpeg-latest"
     },
   ],
    "formation": {
