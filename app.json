@@ -11,16 +11,18 @@
   "keywords": ["nodejs", "bot", "whatsapp bot", "whatsapp automation"],
 
   "buildpacks": [
+    
+    
+    {
+      "url": "heroku/nodejs"
+    }, 
 
     {
 
       "https://github.com/jonathanong/heroku-buildpack-ffmpeg-latest"
 
-    }, 
-    
-    {
-      "url": "heroku/nodejs"
     }
+
 
     
   ],
